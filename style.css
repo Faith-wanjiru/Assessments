@@ -1,0 +1,48 @@
+@media screen and (min-width:"400px") and (max-width:"728px"){}
+    .welcome{
+        background-color: rgb(83, 156, 83);
+         text-align: justify;
+         color: antiquewhite;
+         margin: 20px;
+    }
+
+    #navbar{
+        padding: 80px;
+        margin: 70px;
+        font-size: small;
+    }
+
+    
+.cont1{
+    display: flex;
+    align-items: left;
+}
+
+.inspiration{
+    display: grid;
+    grid-template-columns: 50px, 50px;
+}
+
+.orchid{
+    display: grid;
+    grid-template-columns: auto ;
+    align-items: below;
+}
+
+#cont2{
+    display: flex;
+    grid-template-columns:auto ;   
+}
+.springsstore{
+    display: flexbox;
+    padding: 20px;
+    text-align: left;
+    align-items: flex-start;
+}
+
+
+    
+
+
+.
+
